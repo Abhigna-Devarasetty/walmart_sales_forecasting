@@ -4,9 +4,13 @@ Project title : Walmart sales forecasting
 
 Team members :
 Shalini Kothuru - skothuru@iu.edu
+
 Shivani Chennoju - schennoj@iu.edu
+
 NagaJahnavi Dhulipalla - ndhulipa@iu.edu
+
 Venkata Sai Abhigna Devarasetty - vdevaras@iu.edu
+
 
 This notebook includes the code till EDA in a ML pipeline
 
@@ -19,7 +23,7 @@ seaborn,
 scikit-learn, SARIMAX,statsmodels.api, prophet,xgboost and lightgbm.
 
 Code:
-To start with this project, please upload the file 'Shivani_Chennoju_project_milestone_2_Walmart_sales_forecasting (1)' in zip folder to jupyter or you can open it by typing command 'jupyter notebook Walmart_sales_forecasting_notebook (1).ipynb' by using command prompt. Also, upload the following datasets to the same folder where you have uploaded .ipynb file.
+To start with this project, please upload the file 'Abhigna_Devarasetty_project_milestone_2_Walmart_sales_forecasting (1)' in zip folder to jupyter or you can open it by typing command 'jupyter notebook Walmart_sales_forecasting_notebook (1).ipynb' by using command prompt. Also, upload the following datasets to the same folder where you have uploaded .ipynb file.
 
 Datasets:
 Link to download the datasets : https://www.kaggle.com/competitions/m5-forecasting-accuracy/data
